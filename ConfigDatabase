@@ -1,0 +1,4 @@
+database.driverClassName=oracle.jdbc.driver.oracleDriver
+database.url=jdbc:oracle:thin:@localhost:1521:orcl
+database.username=schemaforstudy
+database.password=123456
