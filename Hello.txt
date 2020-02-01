@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The first, Hello everyone Me Trung
+=======
+The first, Hello everyone Me Tra
+>>>>>>> Issue53
 =======
 The first, Hello everyone Me Tra
 >>>>>>> Issue53
